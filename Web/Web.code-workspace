@@ -4,6 +4,9 @@
       "path": "Web extension"
     },
     {
+      "path": "Web.Test"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
