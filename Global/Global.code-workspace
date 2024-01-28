@@ -4,6 +4,9 @@
       "path": "Global Extension"
     },
     {
+      "path": "Global.Test"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
