@@ -1,5 +1,6 @@
 {
-  "country": "us",
+  "country": "de",
   "appFolders": [],
-  "testFolders": []
+  "testFolders": [],
+  "artifact":"https://bcartifacts.azureedge.net/sandbox/23.0.12034.13450/de"
 }

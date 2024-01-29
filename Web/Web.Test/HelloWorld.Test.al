@@ -1,10 +1,10 @@
-codeunit 51100 "HelloWorld Test"
+codeunit 51100 "WEB HelloWorld Test"
 {
     Subtype = Test;
 
     [Test]
-    [HandlerFunctions('HelloWorldMessageHandler')]
-    procedure TestHelloWorldMessage()
+    [HandlerFunctions('HelloWorldMessageHandler_WEB')]
+    procedure TestHelloWorldMessage_WEB()
     var
         CustList: TestPage "Customer List";
     begin
@@ -15,9 +15,9 @@ codeunit 51100 "HelloWorld Test"
     end;
 
     [MessageHandler]
-    procedure HelloWorldMessageHandler(Message: Text[1024])
+    procedure HelloWorldMessageHandler_WEB(Message: Text[1024])
     begin
-        MessageDisplayed := MessageDisplayed or (Message = 'App published: Hello world');
+        MessageDisplayed := MessageDisplayed or (Message = 'App published: Hello world WEB!');
     end;
 
     var
