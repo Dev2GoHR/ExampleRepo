@@ -2,7 +2,7 @@
   "id": "0697e827-9e12-4525-a9ef-02a8b6a528cf",
   "name": "Global.PerformanceTest",
   "publisher": "Dev2Go",
-  "version": "1.0.0.0",
+  "version": "1.1.0.0",
   "brief": "Performance Toolkit Samples (W1)",
   "description": "This extension provides tests that simulate business processes, such as creating sales orders, for the Business Central Performance Toolkit. Developers can use these to test for performance regressions during development.",
   "platform": "23.0.0.0",

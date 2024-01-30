@@ -3,5 +3,6 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "artifact":"https://bcartifacts.azureedge.net/sandbox/23.0.12034.13450/w1"
+  "artifact": "https://bcartifacts.azureedge.net/sandbox/23.0.12034.13450/w1",
+  "repoVersion": "1.1"
 }

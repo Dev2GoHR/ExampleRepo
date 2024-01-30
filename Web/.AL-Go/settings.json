@@ -2,12 +2,13 @@
   "country": "w1",
   "appFolders": [],
   "testFolders": [],
-  "artifact":"https://bcartifacts.azureedge.net/sandbox/23.0.12034.13450/w1",
+  "artifact": "https://bcartifacts.azureedge.net/sandbox/23.0.12034.13450/w1",
   "appDependencyProbingPaths": [
     {
       "repo": ".",
       "release_status": "include",
       "projects": "Global"
     }
-  ]
+  ],
+  "repoVersion": "1.1"
 }

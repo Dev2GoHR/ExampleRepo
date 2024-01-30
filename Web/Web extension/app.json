@@ -2,7 +2,7 @@
   "id": "2e1a9249-467c-4dee-a04e-e15a7b8cb800",
   "name": "Web extension",
   "publisher": "Dev2Go",
-  "version": "1.0.0.0",
+  "version": "1.1.0.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -12,10 +12,10 @@
   "logo": "",
   "dependencies": [
     {
-    "id": "b8295473-0762-4a30-9eda-a6f0cc2fb33a",
-    "name": "Global Extension",
-    "publisher": "Dev2Go",
-    "version": "1.0.0.0"
+      "id": "b8295473-0762-4a30-9eda-a6f0cc2fb33a",
+      "name": "Global Extension",
+      "publisher": "Dev2Go",
+      "version": "1.0.0.0"
     }
   ],
   "screenshots": [],
