@@ -6,7 +6,7 @@ pageextension 50000 GLOBAL_CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('App published: Hello world GLOBAL!');
+        Message('App published: Hello world GLOBAL! v2.0');
     end;
 }
 
