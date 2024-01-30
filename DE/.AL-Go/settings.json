@@ -2,7 +2,7 @@
   "country": "de",
   "appFolders": [],
   "testFolders": [],
-  "artifact":"https://bcartifacts.azureedge.net/sandbox/23.0.12034.13450/de",
+  "artifact": "https://bcartifacts.azureedge.net/sandbox/23.0.12034.13450/de",
   "appDependencyProbingPaths": [
     {
       "repo": ".",
@@ -14,5 +14,6 @@
       "release_status": "include",
       "projects": "Web"
     }
-  ]
+  ],
+  "repoVersion": "1.1"
 }
